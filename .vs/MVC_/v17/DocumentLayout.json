@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\77upt\\Desktop\\Microsoft_Project\\MVC_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15FF432E-500B-432B-AB73-A30B6DB676A0}|MVC_\\MVC_.csproj|c:\\users\\77upt\\desktop\\microsoft_project\\mvc_\\mvc_\\data\\mvc_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FF432E-500B-432B-AB73-A30B6DB676A0}|MVC_\\MVC_.csproj|solutionrelative:mvc_\\data\\mvc_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FF432E-500B-432B-AB73-A30B6DB676A0}|MVC_\\MVC_.csproj|c:\\users\\77upt\\desktop\\microsoft_project\\mvc_\\mvc_\\migrations\\20240807173318_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FF432E-500B-432B-AB73-A30B6DB676A0}|MVC_\\MVC_.csproj|solutionrelative:mvc_\\migrations\\20240807173318_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FF432E-500B-432B-AB73-A30B6DB676A0}|MVC_\\MVC_.csproj|c:\\users\\77upt\\desktop\\microsoft_project\\mvc_\\mvc_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FF432E-500B-432B-AB73-A30B6DB676A0}|MVC_\\MVC_.csproj|solutionrelative:mvc_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FF432E-500B-432B-AB73-A30B6DB676A0}|MVC_\\MVC_.csproj|c:\\users\\77upt\\desktop\\microsoft_project\\mvc_\\mvc_\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15FF432E-500B-432B-AB73-A30B6DB676A0}|MVC_\\MVC_.csproj|solutionrelative:mvc_\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FF432E-500B-432B-AB73-A30B6DB676A0}|MVC_\\MVC_.csproj|c:\\users\\77upt\\desktop\\microsoft_project\\mvc_\\mvc_\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FF432E-500B-432B-AB73-A30B6DB676A0}|MVC_\\MVC_.csproj|solutionrelative:mvc_\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FF432E-500B-432B-AB73-A30B6DB676A0}|MVC_\\MVC_.csproj|c:\\users\\77upt\\desktop\\microsoft_project\\mvc_\\mvc_\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FF432E-500B-432B-AB73-A30B6DB676A0}|MVC_\\MVC_.csproj|solutionrelative:mvc_\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15FF432E-500B-432B-AB73-A30B6DB676A0}|MVC_\\MVC_.csproj|c:\\users\\77upt\\desktop\\microsoft_project\\mvc_\\mvc_\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15FF432E-500B-432B-AB73-A30B6DB676A0}|MVC_\\MVC_.csproj|solutionrelative:mvc_\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MVC_Context.cs",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\Microsoft_Project\\MVC_\\MVC_\\Data\\MVC_Context.cs",
+              "RelativeDocumentMoniker": "MVC_\\Data\\MVC_Context.cs",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\Microsoft_Project\\MVC_\\MVC_\\Data\\MVC_Context.cs",
+              "RelativeToolTip": "MVC_\\Data\\MVC_Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T17:34:14.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240807173318_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\Microsoft_Project\\MVC_\\MVC_\\Migrations\\20240807173318_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MVC_\\Migrations\\20240807173318_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\Microsoft_Project\\MVC_\\MVC_\\Migrations\\20240807173318_InitialCreate.cs",
+              "RelativeToolTip": "MVC_\\Migrations\\20240807173318_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T17:33:18.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\Microsoft_Project\\MVC_\\MVC_\\appsettings.json",
+              "RelativeDocumentMoniker": "MVC_\\appsettings.json",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\Microsoft_Project\\MVC_\\MVC_\\appsettings.json",
+              "RelativeToolTip": "MVC_\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T17:30:52.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\Microsoft_Project\\MVC_\\MVC_\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MVC_\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\Microsoft_Project\\MVC_\\MVC_\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MVC_\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T16:45:00.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\Microsoft_Project\\MVC_\\MVC_\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MVC_\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\Microsoft_Project\\MVC_\\MVC_\\Models\\Movie.cs",
+              "RelativeToolTip": "MVC_\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T16:39:00.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\Microsoft_Project\\MVC_\\MVC_\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MVC_\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\Microsoft_Project\\MVC_\\MVC_\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MVC_\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T16:38:34.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\77upt\\Desktop\\Microsoft_Project\\MVC_\\MVC_\\Program.cs",
+              "RelativeDocumentMoniker": "MVC_\\Program.cs",
+              "ToolTip": "C:\\Users\\77upt\\Desktop\\Microsoft_Project\\MVC_\\MVC_\\Program.cs",
+              "RelativeToolTip": "MVC_\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T16:35:14.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
